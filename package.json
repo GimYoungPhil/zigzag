@@ -1,0 +1,10 @@
+{
+  "name": "zigzag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Phil <youngphil.gim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer 8080"
+  }
+}
